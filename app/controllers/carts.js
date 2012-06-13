@@ -9,8 +9,8 @@ var params  = {
   SIGNATURE : 'AFcWxV21C7fd0v3bYYYRCpSSRl31Af-aECo8vsiP1HospgIyBCFncbx3',
   METHOD    : 'SetExpressCheckout',
   VERSION   : '78',
-  returnUrl : 'http://localhost:4000/return',
-  cancelUrl : 'http://localhost:4000/cancel',
+  returnUrl : 'http://localhost:4000/carts/return',
+  cancelUrl : 'http://localhost:4000/carts/cancel',
   PAYMENTREQUEST_0_AMT          : '11.99',
   PAYMENTREQUEST_0_CURRENCYCODE : 'USD',
   PAYMENTREQUEST_0_DESC         : 'Sashimi'

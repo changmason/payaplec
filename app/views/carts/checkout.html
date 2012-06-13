@@ -1,5 +1,5 @@
 <? it.title = 'Cart: checkout'; ?>
 
-<p>Token is:
-  <?= it.token ?>
-</p>
+<a href="https://www.sandbox.paypal.com/webscr?cmd=_express-checkout&token=<?= it.token ?>">
+  <img src="https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif" align="left" style="margin-right:7px;">
+</a>
