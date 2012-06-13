@@ -15,6 +15,7 @@
     "node.flow"       : "1.1.1",
     "node.packer"     : "0.0.6",
     "railway-routes"  : "0.0.7",
+    "request"         : "2.9.202",
     "resig-class"     : "0.1.0",
     "rmdirr"          : "0.0.1",
     "sitemap"         : "0.6.0",
